@@ -1,1 +1,2 @@
-# ontologia-ciberseguridad
+La presente ontología de ciberseguridad tiene como propósito estructurar y representar de manera formal los conceptos fundamentales relacionados con la gestión de riesgos en entornos digitales. Fue desarrollada utilizando el editor de ontologías Protégé bajo el estándar OWL (Web Ontology Language).
+El objetivo principal es facilitar el análisis, comprensión e interoperabilidad del conocimiento en el dominio de la ciberseguridad, permitiendo modelar amenazas, vulnerabilidades, activos y mecanismos de protección de forma lógica y reutilizable.
